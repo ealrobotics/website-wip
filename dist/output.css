@@ -495,6 +495,14 @@ Ensure the default browser behavior of the `hidden` attribute.
   margin-right: auto;
 }
 
+.mt-auto {
+  margin-top: auto;
+}
+
+.mb-auto {
+  margin-bottom: auto;
+}
+
 .ml-auto {
   margin-left: auto;
 }
@@ -513,14 +521,6 @@ Ensure the default browser behavior of the `hidden` attribute.
 
 .mr-2 {
   margin-right: 0.5rem;
-}
-
-.mt-auto {
-  margin-top: auto;
-}
-
-.mb-auto {
-  margin-bottom: auto;
 }
 
 .block {
@@ -581,7 +581,7 @@ Ensure the default browser behavior of the `hidden` attribute.
 }
 
 .bg-main-img {
-  background-image: url('../assets/takim.jpeg');
+  background-image: url('../assets/team.jpg');
 }
 
 .bg-cover {
