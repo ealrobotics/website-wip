@@ -1,7 +1,3 @@
 node_modules/
 src/fullpage.css
 src/fullpage.js
-src/input.css
-package.json
-package-lock.json
-tailwind.config.js
